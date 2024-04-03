@@ -1,7 +1,7 @@
 from threading import Thread
 from flask import Flask
 
-app = Flask('ChatGPT-Discord-Bot')
+app = Flask('ChatGPT-Discord-Shrek')
 
 
 @app.route('/')
